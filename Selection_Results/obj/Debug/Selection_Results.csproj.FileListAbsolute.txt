@@ -1,0 +1,12 @@
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\bin\Debug\Selection_Results.exe.config
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\bin\Debug\Selection_Results.exe
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\bin\Debug\Selection_Results.pdb
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.csproj.AssemblyReference.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.csproj.SuggestedBindingRedirects.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.Properties.Resources.resources
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.csproj.GenerateResource.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.csproj.CoreCompileInputs.cache
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.exe
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.pdb
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.frmoygiris.resources
+C:\Users\smnny\OneDrive\Masaüstü\c#\Selection_Results\Selection_Results\obj\Debug\Selection_Results.frmGrafikler.resources
